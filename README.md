@@ -15,7 +15,26 @@ TalenTech
 
 
 
-# Únete al campus de programación de la comunidad
+# Algunos de mis Proyectos
+
+<table style="width:100%">
+<tr>
+<td>
+https://github.com/Serthel/Food_Xperian
+<p> 
+</a>
+</td>
+<td>
+https://github.com/Serthel/ShowYourEssencce
+ <p> 
+</td>
+<td>
+
+</a>
+</td>
+
+</tr>
+</table>
 
 
 
@@ -34,7 +53,8 @@ TalenTech
 
 ## Tecnologias:
 
-<table style="width:100%">
+
+<table style="width:80%">
 <tr>
 <td>
 <img src="https://tse4.mm.bing.net/th/id/OIP.mhadmzLMh4cZzx_r39FfiQHaD2?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
@@ -46,11 +66,15 @@ TalenTech
 </td>
 <td>
 
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<img src="https://tse4.mm.bing.net/th/id/OIP.flo4pWruTahUC5RH3bbqQQHaEZ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
 </a>
 </td>
 </tr>
 <tr>
+<td>
+<img src="https://cppcat.com/wp-content/uploads/2021/04/1522635669452_11-768x443.jpg">
+</a>
+</td>
 <td>
 
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*XdcrYecW6uCLwJOOe5048Q.jpeg">
@@ -58,34 +82,47 @@ TalenTech
 </td>
 <td>
 
-<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
+<img src="https://www.webrexstudio.com/wp-content/uploads/2019/06/Node-js.jpg">
 </a>
 </td>
-<td>
 
-<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
-</a>
-</td>
 </tr>
 <tr>
-<td>
 
-<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
-</a>
-</td>
-<td>
-
-<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
-</a>
-</td>
-<td>
-
-<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
-</a>
-</td>
 </tr>
 </table>
 
+
+# Framework:
+<table style="width:60%">
+<tr>
+<td>
+<img src="https://tse2.mm.bing.net/th/id/OIP.4Zlz9EJCToZclQveC43GaAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
+</a>
+</td>
+<td>
+<img src="https://tse4.mm.bing.net/th/id/OIP.GPe6FXZEGUWbGm2vkdAMtAHaEO?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
+</a>
+</td
+</table>
+
+## Herramientas:
+
+
 ## Contacto y apoyo:
 
+Correo: palaciossergio608@gmail.com 
+<p>Link: www.linkedin.com/in/sergiopalacioss </p>
 
+## Tecnologia de la Nubes:
+<table style="width:60%">
+<tr>
+<td>
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
+</a>
+</td>
+<td>
+<img src="https://logo-marque.com/wp-content/uploads/2021/03/Google-Cloud-Symbole.jpg" style="width:60%">
+</a>
+</td
+</table>
