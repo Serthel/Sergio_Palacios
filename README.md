@@ -1,9 +1,7 @@
-# Hi, mi nombre es Sergio Palacios 👋
-### Desarrollador WEB FULL STACK
+<img width="1584" height="396" alt="Black Minimal Motivation Quote LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/172231f2-05de-4253-8887-47a15e538383" />
 
+# Hi, 👋
 "Excelentes relaciones interpersonales, espíritu de colaboración y alto rendimiento personal. Comprometido a aportar valor humano y profesional a la empresa."
-
-
 
 ## Sobre Mi 
 
