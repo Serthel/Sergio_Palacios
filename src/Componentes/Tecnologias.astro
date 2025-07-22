@@ -1,0 +1,32 @@
+---
+const techs = [
+  {
+    name: "Astro",
+    img: "https://raw.githubusercontent.com/withastro/astro/main/assets/astro-icon-light.svg"
+  },
+  {
+    name: "React",
+    img: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+  },
+  {
+    name: "TailwindCSS",
+    img: "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+  },
+  {
+    name: "TypeScript",
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  }
+];
+---
+
+<section class="p-6">
+  <h2 class="text-2xl font-bold mb-4">Tecnologías</h2>
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+    {techs.map(tech => (
+      <div class="flex flex-col items-center bg-white p-4 shadow rounded-xl">
+        <img src={tech.img} alt={tech.name} class="h-12 w-12 object-contain mb-2" />
+        <span class="text-center text-sm font-medium">{tech.name}</span>
+      </div>
+    ))}
+  </div>
+</section>
