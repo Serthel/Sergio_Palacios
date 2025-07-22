@@ -1,0 +1,60 @@
+# === BUILD OUTPUT ===
+dist/
+.astro/
+
+# === DEPENDENCIES ===
+node_modules/
+
+# === LOG FILES ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+vite-report.json
+
+# === ENVIRONMENT VARIABLES ===
+.env
+.env.*  # Ignora .env.production, .env.development, etc.
+
+# === OS-SPECIFIC FILES ===
+.DS_Store
+Thumbs.db
+
+# === IDEs ===
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains (WebStorm, IntelliJ)
+.idea/
+
+# === SYSTEM FILES ===
+*.swp
+*.swo
+
+# === TEST COVERAGE ===
+coverage/
+
+# === ASTRO IMAGE OPTIMIZER CACHE (si usas) ===
+public/assets/
+
+# === NEXT LEVEL CLEANUP ===
+*.log
+*.cache
+*.tmp
+.cache/
+.cache-loader/
+temp/
+
+# === GIT HOOKS ===
+.husky/
+
+# === OPTIONAL: TYPES ===
+types/
+
+# === OPTIONAL: STORYBOOK ===
+storybook-static/
+
+# === OPTIONAL: SVELTE (si lo integras algún día) ===
+__sapper__/
