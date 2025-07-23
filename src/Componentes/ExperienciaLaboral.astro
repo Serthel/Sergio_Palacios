@@ -1,0 +1,52 @@
+---
+const experiencia = [
+  {
+    titulo: "Desarrollador Web Full Stack (Junior)",
+    empresa: "CONET1 SAS",
+    año: "Mayo 2021 – Diciembre 2022",
+    funcion: "Mantenimiento y actualización de plataforma web",
+  },
+  {
+    titulo: "Supervisor de comunicaciones (Proyecto ART)",
+    empresa: "Carvajal Tecnología y Servicios (Summar Productividad)",
+    año: "Octubre 2017 – Octubre 2018",
+    funcion: "Supervisión de canales de comunicación y soporte técnico",
+  },
+  {
+    titulo: "Técnico Especializado Gestión TI 2 (Operador Securid - Proyecto IDC)",
+    empresa: "Carvajal Tecnología y Servicios",
+    año: "Enero 2016 – Octubre 2017",
+    funcion: "Soporte en autenticación y sistemas de seguridad",
+  },
+  {
+    titulo: "Analista de mesa de servicio",
+    empresa: "Carvajal Tecnología y Servicios",
+    año: "Octubre 2014 – Enero 2016",
+    funcion: "Atención y resolución de incidencias técnicas",
+  },
+  {
+    titulo: "Agente de segundo nivel (Back Office)",
+    empresa: "Atento Colombia",
+    año: "Febrero 2012 – Septiembre 2014",
+    funcion: "Resolución avanzada de solicitudes técnicas",
+  },
+  {
+    titulo: "Desarrollador Base",
+    empresa: "DTS Consulting",
+    año: "Julio 2011 – Diciembre 2011",
+    funcion: "Desarrollo en lenguaje COBOL para sistemas financieros",
+  },
+];
+---
+
+<section class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 p-6 bg-gray-50">
+  {experiencia.map((exp, idx) => (
+    <div key={idx} class="max-w-sm bg-white rounded-2xl shadow-md border border-gray-200 hover:shadow-lg transition-shadow duration-300 p-5">
+      <h3 class="text-lg font-bold text-gray-800 mb-2">{exp.titulo}</h3>
+      <p class="text-sm text-gray-600 font-medium">{exp.empresa}</p>
+      <p class="text-xs text-gray-400 mb-1">{exp.año}</p>
+      <p class="text-sm text-gray-700">{exp.funcion}</p>
+    </div>
+  ))}
+</section>
+
