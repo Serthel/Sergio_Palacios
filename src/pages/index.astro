@@ -1,28 +1,16 @@
 ---
-import Header from '../componentes/Header';
+import Layout from '../layouts/Layout.astro';
 import Sobremi from '../componentes/Sobremi.astro';
 import Tecnologías from '../componentes/Tecnologias.astro';
 import ExperienceLaboral from '../componentes/ExperienceLaboral.astro';
 import Proyectos from '../componentes/Proyectos.astro';
 import Formacion from '../componentes/Formacion.astro';
-import Footer from '../componentes/Footer.astro';
 ---
 
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Inicio | Portafolio</title>
-  </head>
-  <body class="bg-gray-900 text-white min-h-screen">
-    <Header client:load />
-    <main class="p-8 text-center">
-    <Header />
-    <Sobremi />
-    <Tecnologías />
-    <ExperienceLaboral>
-    <Proyectos />
-    <Formacion />
-    <Footer />
-    </main>
-  </body>
-</html>
+<BaseLayout title="Inicio | Portafolio">
+  <Sobremi />
+  <Tecnologías />
+  <ExperienceLaboral />
+  <Proyectos />
+  <Formacion />
+</BaseLayout>
