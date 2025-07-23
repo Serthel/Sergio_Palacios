@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 body {
-  @apply bg-background text-dark font-sans;
+
 }
 
 h1, h2, h3 {
-  @apply font-heading text-primary;
+
 }
 
