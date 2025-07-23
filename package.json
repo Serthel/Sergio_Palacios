@@ -19,7 +19,6 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@skeletonlabs/skeleton": "^3.1.7",
     "autoprefixer": "^10.4.21",
     "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
