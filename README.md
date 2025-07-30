@@ -1,3 +1,4 @@
+<!-- Encabezado con imagen decorativa -->
 <p align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/172231f2-05de-4253-8887-47a15e538383" alt="Banner - Sergio Palacios">
 </p>
@@ -27,7 +28,9 @@ Me destaco por mi compromiso con el trabajo en equipo, la resolución de problem
 
 - GitHub: [Serthel](https://github.com/Serthel/Sergio_Palacios)  
 - Correo: palaciossergio608@gmail.com  
-- LinkedIn: [sergiopalacioss](https://www.linkedin.com/in/sergiopalacioss)  
+- LinkedIn: [sergiopalacioss](https://www.linkedin.com/in/sergiopalacioss)
+- Curriculum vitae: [Aqui](https://www.linkedin.com/in/sergiopalacioss)
+- Pich: [Aqui](https://www.linkedin.com/in/sergiopalacioss)
 
 ---
 
@@ -51,11 +54,11 @@ Me destaco por mi compromiso con el trabajo en equipo, la resolución de problem
 
 ## 🚀 Algunos de mis Proyectos
 
-| Proyecto | Descripción |
-|---------|-------------|
-| [Food_Xperian](https://github.com/Serthel/Food_Xperian) | Aplicación sobre experiencias gastronómicas. |
-| [ShowYourEssencce](https://github.com/Serthel/ShowYourEssencce) | Proyecto Cms /profesional. |
-| [HopeFood](https://github.com/Serthel/ShowYourEssencce) | Proyecto de ecommerce de venta de producto alimenticios saludables. |
+| Proyecto | Descripción | Descripción |
+|---------|-------------|-------------|
+| [Food_Xperian](https://github.com/Serthel/Food_Xperian) | Aplicación sobre experiencias gastronómicas. |-------------|
+| [ShowYourEssencce](https://github.com/Serthel/ShowYourEssencce) | Proyecto Cms /profesional. |-------------|
+| [HopeFood](https://github.com/Serthel/ShowYourEssencce) | Proyecto de ecommerce de venta de producto alimenticios saludables. |-------------|
 
 ---
 
@@ -125,3 +128,6 @@ Me destaco por mi compromiso con el trabajo en equipo, la resolución de problem
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tuusuario/tu-repo/main/footer.svg" alt="Footer decorativo" width="100%" />
+</p>
