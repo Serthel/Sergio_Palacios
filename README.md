@@ -54,8 +54,8 @@ Me destaco por mi compromiso con el trabajo en equipo, la resolución de problem
 | Proyecto | Descripción |
 |---------|-------------|
 | [Food_Xperian](https://github.com/Serthel/Food_Xperian) | Aplicación sobre experiencias gastronómicas. |
-| [ShowYourEssencce](https://github.com/Serthel/ShowYourEssencce) | Proyecto de presentación personal/profesional. |
-| [HopeFood](https://github.com/Serthel/ShowYourEssencce) | Proyecto de presentación personal/profesional. |
+| [ShowYourEssencce](https://github.com/Serthel/ShowYourEssencce) | Proyecto Cms /profesional. |
+| [HopeFood](https://github.com/Serthel/ShowYourEssencce) | Proyecto de ecommerce de venta de producto alimenticios saludables. |
 
 ---
 
